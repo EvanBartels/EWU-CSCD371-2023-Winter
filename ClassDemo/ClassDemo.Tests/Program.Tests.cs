@@ -23,7 +23,7 @@ public class ProgramTests
         { 
             Text.Replace("n", "l");
         }
-        string text1 = Text?.Replace("n", "l");
+        //string text1 = Text?.Replace("n", "l");
 
         Text = text;
     }
